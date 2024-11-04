@@ -1,0 +1,50 @@
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.exe
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.deps.json
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.runtimeconfig.json
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.pdb
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.DuLieu.resources
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.Login.resources
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\refint\QLCafe3K.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.pdb
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\ref\QLCafe3K.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Cafe5K\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.Up2Date
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.exe
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.deps.json
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.runtimeconfig.json
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\QLCafe3K.pdb
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bài QT_CSDL\QLCafe3K\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.AssemblyReference.cache
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.DuLieu.resources
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.GenerateResource.cache
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.AssemblyInfoInputs.cache
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.AssemblyInfo.cs
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.CoreCompileInputs.cache
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.csproj.Up2Date
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.dll
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\refint\QLCafe3K.dll
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.pdb
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.genruntimeconfig.cache
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\ref\QLCafe3K.dll
+D:\Bài QT_CSDL\QLCafe3K\obj\Debug\net8.0-windows\QLCafe3K.Login.resources
